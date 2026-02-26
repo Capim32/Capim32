@@ -15,4 +15,4 @@
 
 ## Stacks utilizadas
 
-[![Back end](https://skillicons.dev/icons?i=arch,c,git,java,spring,python)](https://skillicons.dev)
+[![Back end](https://skillicons.dev/icons?i=arch,c,git,java,python)](https://skillicons.dev)

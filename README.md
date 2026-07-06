@@ -6,7 +6,6 @@
 - Estudante de Ciência da Computação pela Universidade Estadual do Ceará (UECE)
 - Busco me aprofundar na área de engenharia de Software
 - Foco em desenvolvimento back-end
-- Iniciando estudos de full stack
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-833799218/)
